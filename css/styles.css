@@ -1,0 +1,27 @@
+body{
+    background : #000000;
+ 
+  }
+  .box{
+       
+    background : #f1f1f1;
+    width : 200px;
+    height : 18px;
+    color : #f1f1f1;
+    border-radius : 5%;
+   
+   
+  }
+  .box2{
+    background : #ffd369;
+    width : 140px;
+    height : 18px;
+    color : #ffd369;
+    border-radius : 5%;
+  }
+.all{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    margin: 30px;
+}
